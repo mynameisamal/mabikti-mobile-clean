@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "MABIKTI",
-    "slug": "mabikti-mobile",
+    "slug": "mabikti-mobile-clean",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/logoutama.png",
